@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KarolKowalczyk07
+- 👋 Hi, I’m @KarolKowalczyk007
 - 👀 I’m interested in Robotics, AI, designing, and writing code.
 - 🌱 I’m currently learning Computer Vision (CNN's), Robotic Learning (ROS), Robotics Studio, and much more at Columbia University.
-- 💞️ I’m looking to collaborate on interesting and creative Robotics projects.
+- 💞️ I’m looking to work and collaborate on interesting, novel, and creative software and Robotics projects.
 - 📫 How to reach me: my email is kk3521@columbia.edu
 
 <!---
